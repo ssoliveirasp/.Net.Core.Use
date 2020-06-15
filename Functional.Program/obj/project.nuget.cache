@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AL4iHSahxyNN5YNUCp7cvgc82BaPEo6PaacL/F35NuVVwoUcChCum7ORFP7L53v5dB4LyGSF7ABcbRBBuRVfBA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\git\\repos\\.Net.Core.Use\\Functional.Program\\Functional.Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u003765\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\obj\Debug\netcoreapp3.1\Functional.Program.csprojAssemblyReference.cache
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\obj\Debug\netcoreapp3.1\Functional.Program.AssemblyInfoInputs.cache
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\obj\Debug\netcoreapp3.1\Functional.Program.AssemblyInfo.cs
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\obj\Debug\netcoreapp3.1\Functional.Program.csproj.CoreCompileInputs.cache
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\bin\Debug\netcoreapp3.1\Functional.Program.exe
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\bin\Debug\netcoreapp3.1\Functional.Program.deps.json
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\bin\Debug\netcoreapp3.1\Functional.Program.runtimeconfig.json
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\bin\Debug\netcoreapp3.1\Functional.Program.runtimeconfig.dev.json
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\bin\Debug\netcoreapp3.1\Functional.Program.dll
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\bin\Debug\netcoreapp3.1\Functional.Program.pdb
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\obj\Debug\netcoreapp3.1\Functional.Program.dll
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\obj\Debug\netcoreapp3.1\Functional.Program.pdb
+C:\Dev\git\repos\.Net.Core.Use\Functional.Program\obj\Debug\netcoreapp3.1\Functional.Program.genruntimeconfig.cache
